@@ -50,8 +50,6 @@ https://github.com/user-attachments/assets/0f98de3a-cdbb-464d-8209-b9953b0721ee
 ## ⚠️ Lưu ý (Disclaimer)
 Công cụ này được tạo ra với mục đích hỗ trợ học tập và nghiên cứu cá nhân. Vui lòng sử dụng có trách nhiệm và tôn trọng bản quyền của tài liệu gốc.
 
----
-## Stars ⭐
-<img width="2748" height="1986" alt="star-history-20251211" src="https://github.com/user-attachments/assets/394e3eb3-ce6e-44af-8cbb-4d6b18135e98" />
+
 
 
